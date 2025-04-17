@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakashgawde" alt="aakashgawde" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/aakash" target="blank"><img src="https://img.shields.io/twitter/follow/aakash?logo=twitter&style=for-the-badge" alt="aakash" /></a> </p>
+<p align="left"> <a href="[https://twitter.com/aakash](https://x.com/aakashgawde21)" target="blank"><img src="https://img.shields.io/twitter/follow/aakash?logo=twitter&style=for-the-badge" alt="aakash" /></a> </p>
 
 - 🌱 I’m currently learning **Python**
 
