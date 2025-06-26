@@ -1,4 +1,4 @@
-[![MasterHead](https://exploringbits.com/wp-content/uploads/2022/01/discord-banner-4.gif)
+![MasterHead](https://exploringbits.com/wp-content/uploads/2022/01/discord-banner-4.gif)
 <h1 align="center">Hi 👋, I'm Aakashgawde</h1>
 <h3 align="center">A passionate Python Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/Dh5q0sShxgp13DwrvG/200w.webp?cid=ecf05e47dfynkeesxgz0icerbkdn8jmclvqpttjdh2waufmn&rid=200w.webp&ct=g">
